@@ -11,7 +11,7 @@
 </ul> 
 </div>
 
-<h3>Please check out my project and hope you like it
+<h4>Please check out my project and hope you like it !
 <a href="https://mmartin440.github.io/twineProject/" target="_blank"> CLICK HERE </a>
-</h3>
+</h4>
 
