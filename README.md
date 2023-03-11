@@ -12,4 +12,4 @@
 </div>
 
 <h3>Please check out my project and hope you like it</h3>
-<a href="https://mmartin440.github.io/twineProject/"> CLICK HERE </a>
+<a href="https://mmartin440.github.io/twineProject/" target="_blank"> CLICK HERE </a>
