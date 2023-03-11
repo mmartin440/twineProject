@@ -10,3 +10,6 @@
 <li>I learned how to make twine more customizable by using HMTL, CSS and Javascript</li>
 </ul> 
 </div>
+
+<h3>Please check out my project and hope you like it</h3>
+<a href="https://mmartin440.github.io/twineProject/"> CLICK HERE </a>
